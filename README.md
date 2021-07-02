@@ -1,6 +1,6 @@
 <html> 
-  <head><h1>Hola, I'm Nikhilsai 👋 </h1></head>
-  <hr>
+  <head><h1 style='text-align:center>Hola, I'm Nikhilsai 👋 </h1></head>
+ 
 </html>
   
 
