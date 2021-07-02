@@ -25,13 +25,13 @@
     </html>
     
   
-**DOMAIN:**  Machine Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization and Data Analysis.
+**💻DOMAIN:**  Machine Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization and Data Analysis.
 
-**Languages:**  Python, SQL, HTML, CSS.
+**🌐Languages:**  Python, SQL, HTML, CSS.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
+**📄Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Intermediate Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
+**📈Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Intermediate Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 
 
     
