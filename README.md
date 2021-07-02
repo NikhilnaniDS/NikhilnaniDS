@@ -1,4 +1,4 @@
-<h1 align='center'> ℍ𝕆𝕃𝔸, 𝕀'𝕞 ℕ𝕀𝕂ℍ𝕀𝕃 𝕊𝔸𝕀 👋 </h1>
+<h1 align='center'> 🙋‍♂️ ℍ𝕆𝕃𝔸, 𝕀'𝕞 ℕ𝕀𝕂ℍ𝕀𝕃 𝕊𝔸𝕀 👋 </h1>
  
     
 - 🎓 I'm currently studying CSE in SRM University AP
@@ -21,8 +21,9 @@
     </html>
     
 <html>
-    <h3>🕵 𝐓𝐇𝐈𝐍𝐆𝐒 𝐈'𝐌 𝐆𝐎𝐎𝐃 𝐀𝐓🔥 </h3>
+    <h3>🕵 𝐓𝐇𝐈𝐍𝐆𝐒 𝐈'𝐌 𝐆𝐎𝐎𝐃 𝐀𝐓 🔥 </h3>
     </html>
+    
   
 **DOMAIN:**  Machine Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization and Data Analysis.
 
