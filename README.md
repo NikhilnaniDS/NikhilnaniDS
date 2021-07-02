@@ -9,7 +9,7 @@
     
 - 🎓 I'm currently studying CSE in SRM University AP
 - 🌱 Data Science Enthusiast 
-- 🤔 learning MachineLearning and Statistics 
+- 🤔 Learning MachineLearning and Statistics 
 - 💬 Ask me about Data analysis & Data science stuff
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: My perfect day would start with ML and end with STATISTICS 😄
