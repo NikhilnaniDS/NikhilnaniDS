@@ -9,7 +9,7 @@
 - ⚡ Fun fact: My perfect day would start with ML and end with STATISTICS 😄
 
 
-- 📱 REACH ME 🤝<html>
+- 📱 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄 🤝<html>
     <hr>
     </html>
 - [LinkedIn](https://www.linkedin.com/in/nikhil-sai-kanchanapally-077a49206/)
@@ -21,7 +21,7 @@
     </html>
     
 <html>
-    <h3>🕵 THINGS I'M GOOD AT 🔥 </h3>
+    <h3>🕵 𝐓𝐇𝐈𝐍𝐆𝐒 𝐈'𝐌 𝐆𝐎𝐎𝐃 𝐀𝐓🔥 </h3>
     </html>
   
 **DOMAIN:**  Machine Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization and Data Analysis.
