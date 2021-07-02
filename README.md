@@ -1,10 +1,4 @@
-<html> 
-    <head>
-      <center>
-      <h1> HOLA, I'm NIKHIL SAI 👋 </h1></head>
-      </center>
-
-</html>
+<h1 align='center'> ℍ𝕆𝕃𝔸, 𝕀'𝕞 ℕ𝕀𝕂ℍ𝕀𝕃 𝕊𝔸𝕀 👋 </h1>
  
     
 - 🎓 I'm currently studying CSE in SRM University AP
