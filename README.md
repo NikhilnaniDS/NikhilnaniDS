@@ -8,14 +8,13 @@
  
     
 - 🎓 I'm currently studying CSE in SRM University AP
-- 🌱 Data Science Enthusiast
-- 👯 I’m looking to collaborate on [LinkedIn-@clickhere](https://www.linkedin.com/in/nikhil-sai-kanchanapally-077a49206/) 
+- 🌱 Data Science Enthusiast 
 - 🤔 learning MachineLearning and Statistics 
 - 💬 Ask me about Data analysis & Data science stuff
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_nikhil_nani1432__/)
-- 😄 Pronouns: He/His [WHATSAPP](https://api.whatsapp.com/send/?phone=918897082386&text&app_absent=0) 
+- 😄 Pronouns: He/His 
 - ⚡ Fun fact: My perfect day would start with ML and end with STATISTICS 😄
-**DOMAIN:** 
+
+
 - 📱 REACH ME 🤝<html>
     <hr>
     </html>
