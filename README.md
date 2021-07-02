@@ -33,5 +33,8 @@
 
 **📈Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Intermediate Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 
+- PowerBI, MySql, Jupiter, VScode
+
+
 
     
