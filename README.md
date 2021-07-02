@@ -13,8 +13,15 @@
 - 🤔 learning MachineLearning and Statistics 
 - 💬 Ask me about Data analysis & Data science stuff
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_nikhil_nani1432__/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His [WHATSAPP](https://api.whatsapp.com/send/?phone=918897082386&text&app_absent=0) 
 - ⚡ Fun fact: My perfect day would start with ML and end with STATISTICS 😄
+**DOMAIN:** 
+- 📱 REACH ME 🤝<html>
+    <hr>
+    </html>
+- [LinkedIn](https://www.linkedin.com/in/nikhil-sai-kanchanapally-077a49206/)
+- [Instagram](https://www.instagram.com/_nikhil_nani1432__/)
+- [Whatsapp](https://api.whatsapp.com/send/?phone=918897082386&text&app_absent=0) 
 <html>
     <hr>
     </html>
@@ -23,7 +30,7 @@
     <h3>🕵 THINGS I'M GOOD AT 🔥 </h3>
     </html>
   
-**DOMAIN:** Natural Language Processing, Machine Learning, Data Science, Data Wrangling, Data Visualization and Data Analysis.
+**DOMAIN:**  Machine Learning, Data Science, Natural Language Processing, Data Wrangling, Data Visualization and Data Analysis.
 
 **Languages:**  Python, SQL, HTML, CSS.
 
@@ -31,12 +38,5 @@
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Intermediate Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 
-<html>
-    <hr>
-    </html>
-    
-<html>
-    <h3> 📱 REACH ME 🤝 </h3>
-    </html>
-- [WHATSAPP](https://api.whatsapp.com/send/?phone=918897082386&text&app_absent=0) 
+
     
