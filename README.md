@@ -13,7 +13,7 @@
     <hr>
     </html>
 - [LinkedIn](https://www.linkedin.com/in/nikhil-sai-kanchanapally-077a49206/)
-- [Instagram](https://www.instagram.com/_nikhil_nani1432__/)
+- [Instagram](https://www.instagram.com/nikhiluuu/)
 - [Whatsapp](https://api.whatsapp.com/send/?phone=919966284963&text&app_absent=0)
 - [Mail](mailto:nikhilkanchanapalli@gmail.com)
 <html>
